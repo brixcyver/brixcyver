@@ -1,3 +1,8 @@
+![image](https://github.com/brixcyver/brixcyver/assets/142380216/5f998b06-552f-4cd9-bfe6-353996c487fa) ![image](https://github.com/brixcyver/brixcyver/assets/142380216/46138c0c-672c-473a-aedc-64cb600fe553) ![image](https://github.com/brixcyver/brixcyver/assets/142380216/35c10f33-08b4-4839-9d85-3e5fc33d1453)
+
+
+
+
 - 👋 Hi, I’m @brixcyver
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -6,7 +11,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-brixcyver/brixcyver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
