@@ -49,7 +49,7 @@
 ---
 
 ## 📫 Contact:
-You can reach me via 
+You can reach me via:
 - [Facebook](https://www.facebook.com/brixcyver.pineda/)
 - [Linkedin](https://www.linkedin.com/in/brix-cyver-pineda-714810258?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoAdc8YWaTpqapI5p2%2FQHZA%3D%3D)
 - [E-mail](brixcyverzpineda@gmail.com)
