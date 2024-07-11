@@ -10,9 +10,11 @@ Brix Cyver Z. Pineda
  
 
 ## Tech Achievements:
--Snack Report using DAX 
-( https://app.powerbi.com/view?r=eyJrIjoiZTdhODk1NDAtZmY5Yy00MmI3LTk0ZGUtM2EyM2I4NjAwNTFhIiwidCI6ImQyNDk0MDg1LWNjNmUtNDNiMi1hOWFjLTQ5OWFmZmI2N2E4OCIsImMiOjEwfQ%3D%3D )
-
+### Power BI Works: 
+- Snack Report using DAX <br>
+https://app.powerbi.com/view?r=eyJrIjoiZTdhODk1NDAtZmY5Yy00MmI3LTk0ZGUtM2EyM2I4NjAwNTFhIiwidCI6ImQyNDk0MDg1LWNjNmUtNDNiMi1hOWFjLTQ5OWFmZmI2N2E4OCIsImMiOjEwfQ%3D%3D 
+- Soda Report for Year 2022 <br> 
+https://app.powerbi.com/view?r=eyJrIjoiZDU1ODI1OTAtMDM3MS00OTFhLThjZGQtOTJmZTQ0ZmU2YjExIiwidCI6ImQyNDk0MDg1LWNjNmUtNDNiMi1hOWFjLTQ5OWFmZmI2N2E4OCIsImMiOjEwfQ%3D%3D 
 
 ## Skill Set:
 ## Data Visualization Tools:  
