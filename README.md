@@ -1,7 +1,4 @@
-![image](https://github.com/brixcyver/brixcyver/assets/142380216/5f998b06-552f-4cd9-bfe6-353996c487fa) ![image](https://github.com/brixcyver/brixcyver/assets/142380216/46138c0c-672c-473a-aedc-64cb600fe553) ![image](https://github.com/brixcyver/brixcyver/assets/142380216/35c10f33-08b4-4839-9d85-3e5fc33d1453)
-
-
-
+![image](https://github.com/brixcyver/brixcyver/assets/142380216/c05af5c7-8d5b-4ef1-8cb7-8290c9e6360e)
 
 - 👋 Hi, I’m @brixcyver
 - 👀 I’m interested in ...
