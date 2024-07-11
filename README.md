@@ -1,10 +1,18 @@
-![image](https://github.com/brixcyver/brixcyver/assets/142380216/c05af5c7-8d5b-4ef1-8cb7-8290c9e6360e)
+Name: Brix Cyver Z. Pineda
+Education: 3rd Year Computer Science Student
 
-- 👋 Hi, I’m @brixcyver
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Certification: 
+- Artificial Intelligence Fundamentals ( https://www.credly.com/go/pd12s5Mw )
+- SQL and Relational Databases 101 ( https://courses.cognitiveclass.ai/certificates/542765777d024934b28b23e5acc8997b )
+ 
+
+Tech Achievement:
+List at least 3 BEST Power BI projects with its corresponding links (you may include Tableau activities)
+List at least 5 BEST SoftEng Design Pattern repository links
+Other accomplishments you achieve in other courses
+Skill Set
+Data Visualization Tools :  PowerBI Desktop, Tableau Public
+Programming Languages: Java, Python
+DBMS: DB2
+Dev Tools: Lucidchart, Eclipse
 
