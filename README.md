@@ -39,7 +39,7 @@
 - Python
 
 ### 🗄️ DBMS:
-- DB2
+- IBM Db2
 
 ### 🛠️ Dev Tools:
 - Lucidchart
