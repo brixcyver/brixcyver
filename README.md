@@ -1,7 +1,7 @@
 # Brix Cyver Z. Pineda 
 
 ## 🎓 Education:
-**Currently taking 3rd Year Computer Science at New Era University**
+**Currently a 4th Year Computer Science Student at New Era University**
 
 ---
 
